@@ -1,0 +1,41 @@
+.toplevel_page_content-area.wp-has-submenu img{
+    width: 35px;
+    padding-top: 4px!important;
+}
+#adminmenuback,#adminmenu,#adminmenuwrap{
+	background: #262628!important;
+    text-align: left;
+}
+#adminmenu .wp-submenu{
+	background: rgba(3, 3, 4, .9)!important;
+}
+#adminmenu .wp-menu-image img{
+    max-width: 19px;
+    margin-top: 5px;
+    height: 20px !important;
+}
+#adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head, #adminmenu .wp-menu-arrow, #adminmenu .wp-menu-arrow div, #adminmenu li.current a.menu-top, #adminmenu li.wp-has-current-submenu a.wp-has-current-submenu, .folded #adminmenu li.current.menu-top, .folded #adminmenu li.wp-has-current-submenu{
+	background: #aed135!important;
+}
+#adminmenu .wp-submenu a:focus, #adminmenu .wp-submenu a:hover, #adminmenu a:hover, #adminmenu li.menu-top>a:focus {
+    color:#FDF1E0!important;
+    font-weight: 500!important;
+}
+#adminmenu .wp-not-current-submenu .wp-submenu, .folded #adminmenu .wp-has-current-submenu .wp-submenu{
+    min-width: 175px;
+    width: auto;
+    border-left: 5px solid transparent;
+}
+#adminmenu li a:focus div.wp-menu-image:before, #adminmenu li.opensub div.wp-menu-image:before, #adminmenu li:hover div.wp-menu-image:before{
+    color: #aed135!important;
+}
+#adminmenu li.menu-top:hover, #adminmenu li.opensub>a.menu-top, #adminmenu li>a.menu-top:focus{
+    color: #aed135!important!important;
+
+}
+#adminmenu li.wp-has-current-submenu a.wp-has-current-submenu,#adminmenu .wp-has-current-submenu div.wp-menu-image:before,#adminmenu li.wp-has-current-submenu:hover div.wp-menu-image:before{
+	color: #ffffff!important;
+}
+.categorydiv ul.categorychecklist ul.children {
+    display: none;
+}

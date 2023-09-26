@@ -1,0 +1,264 @@
+@font-face { 
+
+    font-family: Raleway; 
+
+    src: url('fonts/Raleway-Regular.ttf'); 
+
+} 
+
+body{
+    overflow-x: hidden;
+}
+*{
+
+  font-family: 'Raleway', sans-serif;
+
+}
+
+.form-horizontal .control-label{
+    text-align: left;
+    color: #fff;
+}
+
+a{color:#191a4b;}
+
+.nav-tabs li a {
+
+    font-weight: 600;
+
+}
+
+p {
+    text-align: left !important;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{
+
+    color:#fff;
+
+    background-color: #191a4b;
+
+    border:none;
+
+}
+
+.nav-tabs>li>a:hover{
+
+    color:#fff;
+
+    background-color: #191a4b;
+
+    border:none;    
+
+}
+
+.nav-tabs>li{margin-bottom: -2px;}
+
+.nav-tabs{border-bottom: 1px solid #191a4b;}
+
+.container{width:100%;}
+
+.dawood-title{
+
+
+    color: #fff;
+
+    padding: 10px 0px;
+
+}
+
+.padding-right-4{
+    padding-right: 2rem !important;
+}
+.dawood_save_route {
+
+    background: #aed135;
+
+    color: #fff;
+
+}
+.dawood_save_route:hover{
+    background-color: #fff;
+    color: #aed135;
+}
+
+.wp-core-ui select{
+
+    width: 100%;
+
+    max-width: 100%!important;
+
+}
+
+hr{
+
+    margin-bottom: 35px;
+
+    border-top: 5px solid #318dde;
+
+    border-style: double;
+
+}
+
+h3.dawood_title{
+
+    text-decoration: underline;
+
+    color: #ffffff;
+
+    margin-bottom: 35px;
+
+    display: block;
+
+    dawoodear: both;
+
+    overflow: hidden;
+
+    text-align: center;
+
+    background: #164688;
+
+    padding: 17px;
+
+}
+
+.dawood_half{
+
+    width: calc(100% - 106px);
+
+}
+
+#v-pills-tab{
+    background: rgb(174, 174, 174);
+    padding: 20px;
+    height: 100%;
+    text-align: left;
+}
+
+.nav-pills .nav-link{
+
+    color: #fff;
+
+    border: none;
+
+    border-radius: unset;
+
+    font-size: 14px;
+
+}
+
+.nav-pills .nav-link.active, .nav-pills .dawoodow>.nav-link {
+    background-color:#aed135;
+    color: #fff!important;
+    border-radius: 5px;
+}
+
+.wp-person a:focus .gravatar, a:focus, a:focus .media-icon img {
+    box-shadow: 0 0 0 1px #aed135,0 0 2px 1px rgba(79,148,212,.8) !important;
+    outline: 1px solid transparent !important;
+}
+.fleft{
+
+    float: left;
+
+}
+
+.fright{
+
+    float: right;
+
+}
+.bg-col12{
+    background-color: #aed135;
+    margin-bottom: 20px;
+}
+.gray_back{
+
+    background:rgb(174 174 174 / 79%);
+
+    padding-top: 20px!important;
+
+    text-align: left;
+
+    margin-left: 0px;
+
+}
+
+#v-pills-tabContent{
+
+    dawoodear: both;
+
+    overflow: hidden;
+
+}
+
+.tab-pane img{max-width: 250px;}
+
+#adminmenu .wp-menu-image img{
+
+    max-width: 15px;
+
+}
+
+#adminmenu div.wp-menu-image img{
+    height: 20px;
+}
+
+a#v-pills-secondsection-tab:focus {
+
+    box-shadow: 0 0 0 1px #C69870, 0 0 2px 1px rgb(158 118 38);
+
+    outline: 1px solid transparent;
+
+}
+
+.btn-info {
+
+    color: #fff!important;
+
+    background-color: #aed135!important;
+
+    border-color: #aed135!important;
+
+    width: 100px;
+
+    padding: .25rem .75rem;
+
+    margin-top:-3px;
+
+}
+
+.btn-info:hover {
+
+    color: #aed135 !important;
+
+    background-color: #fff!important;
+
+    border-color: #aed135!important;
+
+}
+
+p {
+    text-align: left !important;
+}
+
+.categorydiv ul.categorychecklist ul.children {
+    display: none;
+}
+.card{
+    max-width: 100%!important;
+}
+p.order_details{
+    font-weight: 600;
+    text-align: left !important;
+    font-size: 16px;
+}
+.report_btn{
+    display: block;
+    width: 50%;
+    margin: 10px auto;
+    padding: 12px 10px;
+}
+.w-full{
+    width: calc(100% - 105px);
+}

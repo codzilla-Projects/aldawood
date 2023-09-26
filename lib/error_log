@@ -1,0 +1,16 @@
+[23-Nov-2021 12:45:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home3/codzilla/public_html/dawood/wp-content/themes/aldawood/lib/ajax_functions.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/codzilla/public_html/dawood/wp-content/themes/aldawood/lib/ajax_functions.php on line 22
+[23-Nov-2021 12:46:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home3/codzilla/public_html/dawood/wp-content/themes/aldawood/lib/ajax_functions.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/codzilla/public_html/dawood/wp-content/themes/aldawood/lib/ajax_functions.php on line 22
+[23-Nov-2021 12:46:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home3/codzilla/public_html/dawood/wp-content/themes/aldawood/lib/ajax_functions.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/codzilla/public_html/dawood/wp-content/themes/aldawood/lib/ajax_functions.php on line 22
+[23-Nov-2021 12:46:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home3/codzilla/public_html/dawood/wp-content/themes/aldawood/lib/ajax_functions.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/codzilla/public_html/dawood/wp-content/themes/aldawood/lib/ajax_functions.php on line 22

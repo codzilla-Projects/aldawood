@@ -1,0 +1,8 @@
+[23-Nov-2021 12:48:21 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home3/codzilla/public_html/dawood/wp-content/themes/aldawood/dawood_options/pagination_data.php:35
+Stack trace:
+#0 {main}
+  thrown in /home3/codzilla/public_html/dawood/wp-content/themes/aldawood/dawood_options/pagination_data.php on line 35
+[30-Nov-2021 05:25:07 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home3/codzilla/public_html/dawood/wp-content/themes/aldawood/dawood_options/pagination_data.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/codzilla/public_html/dawood/wp-content/themes/aldawood/dawood_options/pagination_data.php on line 5
